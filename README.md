@@ -49,6 +49,7 @@ I am a Full Stack Developer, UI/UX Designer from Myanmar.
 
 ---
 ### 🔥 My Status: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AungMyoAye101)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AungMyoAye101&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
 
 ![Aung Myo Aye's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoAye101&show=reviews,prs_merged&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
