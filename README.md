@@ -6,12 +6,12 @@
   <h1>
     Hi !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I am Aung Myo Aye
+    I'm Aung Myo Aye
   </h1>
 
 <!-- Social -->
   <div id="badges" align="center">
-    <a href="">
+    <a href="https://www.linkedin.com/in/aung-myo-aye-4b88143b4">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=61556195843942">
@@ -22,21 +22,17 @@
     </a>
   </div>
 
-<!-- View Count -->
-  <img align="center" src="" alt=""/>
-
-
-</div>
 
 
 ### 👨‍💻 About Me :
 
-I am a Full Stack Developer, UI/UX Designer from Myanmar.
+I’m a full-stack developer focused on building real-world web applications and improving my backend skills every day.
+I work mainly with the MERN stack and have been diving deep into backend development using NestJS to build scalable and maintainable systems.
 
 
-- :seedling: I’m currently learning Mern stack,Php and Python.
+- :seedling: I’m currently learning Python.
 
-- 📫 How to reach me: aungmyoaye101@gmail.com, 
+- 📫 How to reach me: aungmyoayedev@gmail.com, 
 - 👨‍🚒 My Portfolio Site https://aung-myo-aye-portfolio.vercel.app/
 ---
 
