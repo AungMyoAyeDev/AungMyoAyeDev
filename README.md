@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<div id="header" >
   <!-- Top Gif -->
 
 
@@ -10,7 +10,7 @@
   </h1>
 
 <!-- Social -->
-  <div id="badges" align="center">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/aung-myo-aye-4b88143b4">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
