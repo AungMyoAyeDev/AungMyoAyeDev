@@ -1,54 +1,267 @@
+<div align="center">
 
-<div id="header" >
-  <!-- Top Gif -->
+# 👋 Hi, I'm **Aung Myo Aye**
 
+### Full-Stack Developer · Backend Engineer 
 
-  <h1>
-    Hi !
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Aung Myo Aye
-  </h1>
+I build **real-world web applications** with a strong focus on
+**clean architecture, scalable backend systems, and modern frontend experiences.**
 
-<!-- Social -->
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/aung-myo-aye-4b88143b4">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=61556195843942">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://github.com/AungMyoAye101">
-      <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
-    </a>
-  </div>
+<p>
+  <a href="https://aung-myo-aye-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aung-myo-aye-4b88143b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aungmyoayedev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AungMyoAyeDev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-
-
-### 👨‍💻 About Me :
-
-I’m a full-stack developer focused on building real-world web applications and improving my backend skills every day.
-I work mainly with the MERN stack and have been diving deep into backend development using NestJS to build scalable and maintainable systems.
-
-
-- :seedling: I’m currently learning Python.
-
-- 📫 How to reach me: aungmyoayedev@gmail.com, 
-- 👨‍🚒 My Portfolio Site https://aung-myo-aye-portfolio.vercel.app/
----
-
-### 🛠️ Languages and Tools :
-| Fronend | Backend | UI/UX | Database |
-| ------- | ------- | ----- | ----- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,ts,tailwind,&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,php,python,java,&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skillicons.dev/icons?i=figma,wordpress&theme=dark)](https://skills.thijs.gg) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark)](https://skills.thijs.gg)|
-
-
+</div>
 
 ---
-### 🔥 My Status: 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AungMyoAye101)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AungMyoAye101&theme=dark&background=30,2c3e50,512DA8)](https://git.io/streak-stats)
 
-![Aung Myo Aye's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMyoAye101&show=reviews,prs_merged&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,512DA8&theme=highcontrast)
+## 🧑‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoAye101&layout=compact&theme=vision-friendly-dark&bg_color=30,2c3e50,512DA8)](https://github.com/anuraghazra/github-readme-stats)
+I'm a  **Full-Stack Developer** focused on building production-oriented applications and continuously improving my engineering fundamentals.
 
+My current focus is moving beyond simply building features toward understanding **how scalable systems are designed, structured, and maintained**.
+
+```text
+Frontend        → React · Next.js · TypeScript · Tailwind CSS
+Backend         → Node.js · NestJS · Express
+Architecture    → DDD · Clean Architecture · REST APIs
+Databases       → PostgreSQL · MongoDB · Prisma
+Infrastructure  → Docker · Nginx · CI/CD
+Realtime        → WebSockets · Soketi · Pusher
+Mobile          → React Native · Expo
+```
+
+### 🎯 Currently Focused On
+
+* 🏗️ Designing backend systems with **NestJS + Domain-Driven Design**
+* 🔐 Building authentication and authorization systems
+* ⚡ Real-time applications with **WebSockets / Soketi**
+* 🗄️ PostgreSQL database design with **Prisma**
+* 🐳 Containerized development with **Docker**
+* 🧪 Writing maintainable, testable application architecture
+* 📱 Exploring **React Native + Expo**
+* 🚀 Improving production-level engineering and system design skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,php" />
+</p>
+
+### Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,vscode" />
+</p>
+
+### Mobile & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,figma" />
+</p>
+
+---
+
+## 🏗️ What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Real-Time Chat
+
+Building a production-oriented chat system with:
+
+* NestJS
+* WebSockets
+* Soketi
+* PostgreSQL
+* Prisma
+* Docker
+* Authentication
+* One-to-one & group messaging
+
+</td>
+
+<td width="50%">
+
+### 📺 Content & Channel Platform
+
+Working on a social/content platform featuring:
+
+* Next.js
+* React
+* TypeScript
+* Zustand
+* Audio & video posts
+* Podcasts
+* Playlists
+* Channels
+* Memberships
+* Real-time features
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Engineering Interests
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   Clean Architecture       Domain-Driven Design     │
+│                                                     │
+│   Distributed Systems      Real-Time Applications   │
+│                                                     │
+│   API Design               Database Architecture   │
+│                                                     │
+│   Authentication           System Design            │
+│                                                     │
+│   Performance              Developer Experience    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+I’m particularly interested in understanding **why systems are designed a certain way**, not just making them work.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AungMyoAyeDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungMyoAyeDev&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AungMyoAyeDev&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 📈 My Development Journey
+
+```text
+2023
+ │
+ ├── Started learning Full-Stack Development
+ │
+ ▼
+2024
+ │
+ ├── React / Node.js
+ ├── MERN applications
+ ├── REST APIs
+ └── Database fundamentals
+ │
+ ▼
+2025
+ │
+ ├── Next.js
+ ├── TypeScript
+ ├── PostgreSQL
+ ├── Prisma
+ └── Production-oriented applications
+ │
+ ▼
+2026
+ │
+ ├── NestJS
+ ├── Domain-Driven Design
+ ├── Clean Architecture
+ ├── Real-Time Systems
+ ├── WebSockets / Soketi
+ ├── Docker & Infrastructure
+ └── System Design
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Hotel Booking Management System
+
+**MERN + Next.js BFF**
+
+A full-stack hotel management and booking platform focused on separating frontend concerns from backend services through a **Backend-for-Frontend architecture**.
+
+`Next.js` `React` `Node.js` `MongoDB` `TypeScript`
+
+---
+
+### 💬 Real-Time Chat Application
+
+A production-oriented messaging application exploring:
+
+`NestJS` `PostgreSQL` `Prisma` `WebSockets` `Soketi` `Docker`
+
+---
+
+### 🎙️ Channel & Podcast Platform
+
+A content platform supporting channels, audio posts, podcasts, playlists, memberships and personalized feeds.
+
+`Next.js` `TypeScript` `React` `Zustand` `Tailwind CSS`
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing:
+
+**Software Architecture · Backend Engineering · TypeScript · Open Source · Real-Time Systems**
+
+<p align="center">
+  <a href="mailto:aungmyoayedev@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aung-myo-aye-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *Build. Understand. Improve.*
+
+<img src="https://komarev.com/ghpvc/?username=AungMyoAyeDev&style=flat-square&color=blue" />
+
+</div>
